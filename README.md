@@ -9,3 +9,5 @@ This project is an end-to-end AWS data pipeline using MWAA (Airflow) to ingest r
 4. Athena queries processed data via Glue Data Catalog
 5. QuickSight dashboard visualizes recipe trends, filters vegetarian recipes
 
+Day 4 Log
+- Struggled to get lambda funciton into git
