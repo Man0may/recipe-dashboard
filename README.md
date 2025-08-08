@@ -10,5 +10,6 @@ This project is an end-to-end AWS data pipeline using MWAA (Airflow) to ingest r
 5. QuickSight dashboard visualizes recipe trends, filters vegetarian recipes
 
 Day 4 Log
-- Struggled to get lambda function into git
-- Thinking about moving on to a different part of the project before putting it into github
+- Struggled to get the lambda function into git
+- Thinking about moving on to a different part of the project before putting it into GitHub
+- Downside: Logging of work becomes difficult
