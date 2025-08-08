@@ -13,3 +13,4 @@ Day 4 Log
 - Struggled to get the lambda function into git
 - Thinking about moving on to a different part of the project before putting it into GitHub
 - Downside: Logging of work becomes difficult
+- Lambda Function works
