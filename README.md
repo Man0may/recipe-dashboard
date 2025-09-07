@@ -2,7 +2,7 @@
 AWS Recipe Dashboard (Tasty API)
 This project is an end-to-end AWS data pipeline using MWAA (Airflow) to ingest recipes from the Tasty API (via RapidAPI), transform the data in Glue, query it in Athena, and visualize trending recipes in a QuickSight dashboard.
 
-Workflow
+## Workflow
 Lambda fetches recipe data (Tasty API) → stores raw JSON in S3
 AWS Glue ETL job transforms raw data from the S3 bucket → saves processed Parquet to a separate S3 bucket
 Athena queries processed data via Glue Data Catalog
